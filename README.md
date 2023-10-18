@@ -1,0 +1,2 @@
+# fgit
+first git repo
